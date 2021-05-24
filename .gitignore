@@ -4,3 +4,4 @@ require.js
 examples/dist
 .publish
 .DS_Store
+.idea
