@@ -181,6 +181,7 @@ class Image extends Component {
                 WebkitUserSelect: "none",
                 position: "relative",
                 float: "left",
+                width: "200px",
                 background: "#eee",
                 padding: "0px"}}>
 
